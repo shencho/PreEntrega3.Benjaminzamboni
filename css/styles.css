@@ -80,6 +80,14 @@ nav ul li a:hover {
   border-radius: 100%;
 }
 
+.fa-cart-shopping {
+  color: linear-gradient(to right, black, rgb(68, 68, 20));
+}
+
+.nav-link {
+  color: linear-gradient(to right, black, rgb(68, 68, 20));
+}
+
 /*Sizing*/
 .ttalles {
   text-align: center;
@@ -154,6 +162,29 @@ footer {
     padding-bottom: 10px;
     width: 100%;
   }
+}
+.resumenNosotros {
+  font-size: 20px;
+  font-weight: lighter;
+  padding-bottom: 40px;
+  color: #3a3a3a;
+  text-align: justify;
+}
+
+.imagendesc {
+  padding-left: 10px;
+  padding-bottom: 10px;
+  width: 200px;
+}
+
+.imagensapo {
+  padding-right: 10px;
+  padding-bottom: 10px;
+  width: 200px;
+}
+
+.p1 {
+  padding-bottom: 50px;
 }
 
 /*# sourceMappingURL=styles.css.map */
